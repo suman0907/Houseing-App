@@ -1,7 +1,7 @@
 alembic==0.8.8
 BareNecessities==0.2.8
 cffi==1.10.0
-cryptography==1.7.2
+cryptography==3.2
 elasticsearch==5.1.0
 enum34==1.1.6
 Flask==0.10.1
